@@ -1,0 +1,28 @@
+{
+    "version": "0.1.0",
+    "worldName": "Your Campaign World",
+    "episodeCount": 112,
+    "currentEpisode": 1,
+    "worldBounds": {
+        "north": 5000,
+        "south": -5000,
+        "east": 5000,
+        "west": -5000
+    },
+    "metadata": {
+        "created": "2024-01-01",
+        "lastModified": "2024-01-01",
+        "mapResolution": "20000x20000",
+        "tilesetVersion": null
+    },
+    "regions": [],
+    "locations": [],
+    "episodes": {
+        "1": {
+            "title": "The Beginning",
+            "description": "Where it all started",
+            "date": "Session 1",
+            "partyLocation": [0, 0]
+        }
+    }
+} 
